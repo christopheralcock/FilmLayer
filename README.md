@@ -79,7 +79,7 @@ I could have taken this approach further and only joined the top 1000 best budge
 
 I should also note that, were I doing this in production, I would probably simply not use this wiki data at all.  The "abstract" field is corrupted, completely inconsistent, and useless and providing a link to a wikipedia page for users to click through can be achieved in many simpler and more reliable, robust and future-proof ways, eg [https://duckduckgo.com/?q=%5C [film name] film wiki](https://duckduckgo.com/?q=%5C+Total+Recall+film+wiki)
 
-##Data quality:
+## Data quality:
 
 In production I would devise a lightweight testing strategy, demonstrating all of my Spark api usage with the edge cases it is deigned to handle
 
