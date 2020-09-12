@@ -69,7 +69,7 @@ I chose Apache Spark to process the data because if we want to productionise and
 
 I chose python as of the two main languages with Spark APIs it is the one with which I am more familiar
 
-### Algorithmic choices:
+## Algorithmic choices:
 
 As you will see from the annotations on my code, the biggest algorithmic choice I made was to filter the wiki data set early on in the process with a set of heuristics derived from interrogating the data.
 
